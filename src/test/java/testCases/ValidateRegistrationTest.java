@@ -57,8 +57,7 @@ public class ValidateRegistrationTest extends BaseClass{
 		logger.info("Entered Confirm Password");
 		r.ClickRegisterButton();
 		logger.info("Clicked Register button");
-		//Assert.assertTrue(driver.findElement(By.xpath("//span[@id='FirstName-error']")).isDisplayed());
-		Assert.assertTrue(false);
+		Assert.assertTrue(driver.findElement(By.xpath("//span[@id='FirstName-error']")).isDisplayed());
 	}
 	
 	@Test
