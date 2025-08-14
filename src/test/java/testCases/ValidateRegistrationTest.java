@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import pageObjects.RegisterPage;
 import testBase.BaseClass;
 
-public class ValidateRegistration extends BaseClass{
+public class ValidateRegistrationTest extends BaseClass{
 
 	@Test
 	public void TC_R_001() {
