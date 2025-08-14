@@ -1,0 +1,60 @@
+21:19:55:676 [main] INFO  testCases.ValidateRegistrationTest - ***Staring TestCase TC_R_001***
+21:19:57:197 [main] INFO  testCases.ValidateRegistrationTest - Clicked Male redio button
+21:19:57:335 [main] INFO  testCases.ValidateRegistrationTest - Entered FirstName
+21:19:57:435 [main] INFO  testCases.ValidateRegistrationTest - Entered LastName
+21:19:57:552 [main] INFO  testCases.ValidateRegistrationTest - Entered Email
+21:19:57:658 [main] INFO  testCases.ValidateRegistrationTest - Clicked Newsletter checkbox
+21:19:57:776 [main] INFO  testCases.ValidateRegistrationTest - Entered Company name
+21:19:57:880 [main] INFO  testCases.ValidateRegistrationTest - Entered Password
+21:19:57:988 [main] INFO  testCases.ValidateRegistrationTest - Entered Confirm Password
+21:19:58:177 [main] INFO  testCases.ValidateRegistrationTest - Clicked Register button
+21:19:59:619 [main] INFO  testCases.ValidateRegistrationTest - ***Staring TestCase TC_R_002***
+21:20:01:106 [main] INFO  testCases.ValidateRegistrationTest - Clicked Register button
+21:20:02:492 [main] INFO  testCases.ValidateRegistrationTest - ***Staring TestCase TC_R_003***
+21:20:05:366 [main] INFO  testCases.ValidateRegistrationTest - Clicked Newsletter checkbox
+21:20:05:500 [main] INFO  testCases.ValidateRegistrationTest - Entered Company name
+21:20:05:614 [main] INFO  testCases.ValidateRegistrationTest - Entered Password
+21:20:05:731 [main] INFO  testCases.ValidateRegistrationTest - Entered Confirm Password
+21:20:05:847 [main] INFO  testCases.ValidateRegistrationTest - Clicked Register button
+21:20:07:351 [main] INFO  testCases.ValidateRegistrationTest - ***Staring TestCase TC_R_004***
+21:20:09:799 [main] INFO  testCases.ValidateRegistrationTest - Clicked Male redio button
+21:20:10:404 [main] INFO  testCases.ValidateRegistrationTest - Entered FirstName
+21:20:10:519 [main] INFO  testCases.ValidateRegistrationTest - Entered LastName
+21:20:12:151 [main] INFO  testCases.ValidateRegistrationTest - ***Staring TestCase TC_R_005***
+21:20:15:747 [main] INFO  testCases.ValidateRegistrationTest - Clicked Male redio button
+21:20:15:862 [main] INFO  testCases.ValidateRegistrationTest - Entered FirstName
+21:20:15:957 [main] INFO  testCases.ValidateRegistrationTest - Entered LastName
+21:20:17:699 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_001***
+21:20:20:411 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:20:20:517 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:20:20:716 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:28:42:679 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:28:45:475 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:28:45:590 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:28:47:741 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:31:04:677 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:31:06:385 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:31:06:500 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:31:07:669 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:32:36:777 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:32:40:518 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:32:40:632 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:32:40:736 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:34:08:721 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:34:10:483 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:34:10:606 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:34:10:799 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:34:24:137 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:34:25:954 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:34:26:069 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:34:27:293 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:35:24:253 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:35:27:027 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:35:27:180 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:35:27:281 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:35:39:984 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:35:42:688 [main] INFO  testCases.ValidateLoginPageTest - Entered Email
+21:35:42:799 [main] INFO  testCases.ValidateLoginPageTest - Entered Password
+21:35:43:027 [main] INFO  testCases.ValidateLoginPageTest - Clicked Login
+21:38:36:245 [main] INFO  testCases.ValidateLoginPageTest - ***Staring TestCase TC_L_002***
+21:38:37:804 [main] INFO  testCases.ValidateLoginPageTest - Entered Email

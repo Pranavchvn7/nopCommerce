@@ -6,7 +6,8 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testCases.ValidateRegistrationTest"/>
+      <class name="testCases.ValidateRegistrationTest"/> 
+      <class name="testCases.ValidateLoginPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

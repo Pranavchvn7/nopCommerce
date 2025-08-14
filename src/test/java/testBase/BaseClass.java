@@ -2,7 +2,6 @@ package testBase;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
-import java.time.Duration;
 import java.util.Arrays;
 import java.util.Date;
 
@@ -33,9 +32,9 @@ public class BaseClass {
         options.addArguments("--ignore-certificate-errors");
 		driver=new ChromeDriver(options);
 		WebDriverManager.chromedriver().setup();
-		driver.get("http://demo.nopcommerce.com/register?returnUrl=%2F");
-		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+//		driver.get("http://demo.nopcommerce.com/");
+//		driver.manage().window().maximize();
+//		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	}
 	
 	public String captureScreen(String name) {

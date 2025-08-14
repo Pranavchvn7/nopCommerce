@@ -1,5 +1,7 @@
 package testCases;
 
+import java.time.Duration;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -12,6 +14,9 @@ public class ValidateRegistrationTest extends BaseClass{
 	@Test
 	public void TC_R_001() {
 		logger.info("***Staring TestCase TC_R_001***");
+		driver.get("https://demo.nopcommerce.com/register?returnUrl=%2F");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		RegisterPage r=new RegisterPage(driver);
 		r.ClickRedioMale();
 		logger.info("Clicked Male redio button");
@@ -37,6 +42,9 @@ public class ValidateRegistrationTest extends BaseClass{
 	@Test
 	public void TC_R_002() {
 		logger.info("***Staring TestCase TC_R_002***");
+		driver.get("https://demo.nopcommerce.com/register?returnUrl=%2F");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		RegisterPage r=new RegisterPage(driver);
 		r.ClickRegisterButton();
 		logger.info("Clicked Register button");
@@ -46,6 +54,9 @@ public class ValidateRegistrationTest extends BaseClass{
 	@Test
 	public void TC_R_003() {
 		logger.info("***Staring TestCase TC_R_003***");
+		driver.get("https://demo.nopcommerce.com/register?returnUrl=%2F");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		RegisterPage r=new RegisterPage(driver);
 		r.ClickNewsletter();
 		logger.info("Clicked Newsletter checkbox");
@@ -63,6 +74,9 @@ public class ValidateRegistrationTest extends BaseClass{
 	@Test
 	public void TC_R_004() {
 		logger.info("***Staring TestCase TC_R_004***");
+		driver.get("https://demo.nopcommerce.com/register?returnUrl=%2F");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		RegisterPage r=new RegisterPage(driver);
 		r.ClickRedioMale();
 		logger.info("Clicked Male redio button");
@@ -78,6 +92,9 @@ public class ValidateRegistrationTest extends BaseClass{
 	@Test
 	public void TC_R_005() {
 		logger.info("***Staring TestCase TC_R_005***");
+		driver.get("https://demo.nopcommerce.com/register?returnUrl=%2F");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		RegisterPage r=new RegisterPage(driver);
 		r.ClickRedioMale();
 		logger.info("Clicked Male redio button");
